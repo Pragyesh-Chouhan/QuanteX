@@ -218,4 +218,5 @@ docker-compose up --build -d
 2. **Educational & Research Purpose:** All backtest returns, Sharpe ratios, and win rates represent historical simulations. Past simulated performance is no guarantee of future returns.
 3. **No Financial Advice:** This software is provided solely for technical demonstration and hackathon evaluation. Do not risk capital you cannot afford to lose.
 #   a l g o - t r a d e  
+ #   Q u a n t E X  
  
